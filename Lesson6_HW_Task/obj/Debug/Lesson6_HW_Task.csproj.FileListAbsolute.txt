@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\bin\Debug\Lesson6_HW_Task.exe.config
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\bin\Debug\Lesson6_HW_Task.exe
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\bin\Debug\Lesson6_HW_Task.pdb
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\obj\Debug\Lesson6_HW_Task.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\obj\Debug\Lesson6_HW_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\obj\Debug\Lesson6_HW_Task.exe
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task\obj\Debug\Lesson6_HW_Task.pdb

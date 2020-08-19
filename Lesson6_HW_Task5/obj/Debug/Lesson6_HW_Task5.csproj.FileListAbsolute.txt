@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.exe.config
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.exe
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.pdb
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.exe
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.pdb
+C:\Users\User\source\repos\Lesson6_HW_Task1\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.exe.config
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.exe
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\bin\Debug\Lesson6_HW_Task5.pdb
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.exe
+C:\Users\User\Desktop\Studying\C# studing\Lesson6\Homework\Lesson6_Homework\Lesson6_HW_Task5\obj\Debug\Lesson6_HW_Task5.pdb
